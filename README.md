@@ -6,7 +6,9 @@ These the dotfiles I've changed to change my [prompt](#prompt), added a few [ali
 
 I've added two aliases for the two most frequented locations on my pc: One for documents being ``cddoc`` and one for my Dropbox folder being ``cddb``
 
-```sh alias cddoc='cd ~/../mnt/c/Users/Steven/Documents' alias cddb='cd ~/../mnt/c/Users/Steven/Dropbox'
+```sh
+alias cddoc='cd ~/../mnt/c/Users/Steven/Documents' alias cddb='cd ~/../mnt/c/Users/Steven/Dropbox'
+```
 
 ## Prompt
 
